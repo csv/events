@@ -46,15 +46,34 @@ At the Bicoastal Datafest, we produced the FMS Symphony, a music video about the
 relationships between federal spending, the federal interest rate, the debt ceiling
 and the financial crisis over the past few years.
 
-    * visuals cannot fully capture the dimensionality of big data
+We've continued to explore the potential of non-visual senses, and we think that
+music videos are just the beginning. Music videos convey only two senses. In order
+to increase our data bandwidth, we need to use all five senses, and we think that
+that is best accomplished through food.
 
-    * we need new sensory experiences to express more dimensions
-    * obama video - what do kids like? dubsteb and big data
-    * we need poppy big data music videos
+For the National Day of Civic Hacking, we made an R library called "gastronomify"
+that allows data to be converted into food. It modifies a base recipe based on the
+data passed to it, and then it automatically hires someone to prepare the recipe
+with TaskRabbit.
 
 ## How Will This Project Have Impact?
+Gastronomification facilitates an ambient, passive approache data analysis, allowing
+people to experience richer datasets without specialized knowledge.
 
 ## What Happens Next?
+We are continuing our research into data gastronomification, and we are preparing
+more music videos for a CSV Soundsystem US tour.
+
+Our current data gastronomification implementation is quite naive; we are working
+with a chef to explore different paradigms of expressing data in food. We aim for
+an approach that allows us to independently vary the texture, taste, visual
+appearance and smell of food, allowing us to employ all five senses for conveying data.
+
+We have been lining up performance venues and preparing a full set of music videos.
+We recently produced the Ridership Rachenitsa, a music video about transit ridership
+over the past few years in Chicago and New York. We are currently working on the
+BitCoin <?>, a music video about the BitCoin economy, and the New York <?>, a music
+video about the daily activities of New Yorkers.
 
 ## Who Does This Project or Story Affect?
 
