@@ -1,4 +1,5 @@
 http://hackforchange.org/submit
+=======
 
 ## Title
 Gastronomify: Multi-sensory data experiences
@@ -17,6 +18,11 @@ wildebeest@thomaslevine.com
 ## What National Day of Civic Hacking event did you attend?
 
 ## Additional Team Members & Contact Info
+Brian Abelson
+Jake Bialer
+Burton DeWilde
+Michael Keller
+Cezary Podkul
 
 ## What Challenge Did You Address?
 OTHER - Define Below
@@ -76,7 +82,7 @@ BitCoin <?>, a music video about the BitCoin economy, and the New York <?>, a mu
 video about the daily activities of New Yorkers.
 
 ## Who Does This Project or Story Affect?
-We are producing our multi-sensory data experiences
+???
 
 ## How Might This Project or Story Create Value for Individuals?
 Data gastronomification and data music videos are part of the larger theme of
