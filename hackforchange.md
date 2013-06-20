@@ -2,7 +2,7 @@ http://hackforchange.org/submit
 =======
 
 ## Title
-Gastronomify: Multi-sensory data experiences
+Gastronomification and other multi-sensory data experiences
 
 ## Project/Story Type
 Other Project
@@ -32,14 +32,16 @@ Governments have recently made great strides towards opening raw datasets online
 but much still needs to be done to make them accessible and comprehensible.
 
 ## Video Link
+???
 
 ## Photos/Screenshots
+![Two bowls of guacamole, one saying "2012 NYC Math Test Scores" and the other saying "2006 Math Test Scores"](data-guacamole.jpg)
 
 ## Website
 http://csvsoundsystem.com
 
 ## Source Code
-https://github.com/csv
+https://github.com/tlevine/gastronomify
 
 ## Project/Story Description
 Traditionally, people have produced visualizations in order to make sense of data,
@@ -60,7 +62,8 @@ that is best accomplished through food.
 For the National Day of Civic Hacking, we made an R library called "gastronomify"
 that allows data to be converted into food. It modifies a base recipe based on the
 data passed to it, and then it automatically hires someone to prepare the recipe
-with TaskRabbit.
+with TaskRabbit. We used the library to prepare a gastronomification of New York
+City [math test scores](https://data.cityofnewyork.us/Education/Math-Test-Results-2006-2012-District-All-Students/7yig-nj52).
 
 ## How Will This Project Have Impact?
 Gastronomification facilitates an ambient, passive approache data analysis, allowing
@@ -81,8 +84,30 @@ over the past few years in Chicago and New York. We are currently working on the
 BitCoin <?>, a music video about the BitCoin economy, and the New York <?>, a music
 video about the daily activities of New Yorkers.
 
+We eventually plan on making the processes of data sonification and
+gastronomification more accessible to laypeople, but we feel that we first need to
+explore different approaches to multi-sensory data experiences.
+
 ## Who Does This Project or Story Affect?
-???
+The gastronomify library makes it easy for a data scientist to prepare a data
+gastronomification that can be understood by non-data-scientists. We intend that
+gastronomification will benefit everyone, but we see particular groups that it will
+help most.
+
+*People who are blind*: Data visualizations are less helpful for people who cannot
+see. We currently lack a strategy for conveying complex information to people who
+are blind. Representing data with other senses can provide such a strategy.
+
+*Young people*: Data is trendy these days. Data scientists are
+[sexy](http://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/),
+Nate Silver is common dinnertable conversation. The White House used data to appeal
+to young people. http://www.youtube.com/watch?v=JwuEnyV1Cb0
+
+*People who monitor daily data feeds*: The gastronomify library can be used
+immediately to assist in the monitoring of daily data feeds. A data-driven meal can
+be produced every day to represent the status of a system. This can help investment
+bankers in monitoring the stock market, computer system administrators in monitoring
+servers and journalists in monitoring diverse content feeds.
 
 ## How Might This Project or Story Create Value for Individuals?
 Data gastronomification and data music videos are part of the larger theme of
@@ -96,9 +121,13 @@ make it comprehensible to everyone.
 ## Additional Resources
 http://www.dnainfo.com/new-york/20130429/greenpoint/data-driven-band-csv-soundsystem-makes-music-from-spreadsheets
 http://livestream.com/knerd/video?clipId=pla_a5d59285-9399-47dc-aaef-2b9a77142d5e
+https://github.com/csv/ddr
+http://csvsoundsystem.com
+http://fms.csvsoundsystem.com
+http://www.youtube.com/watch?v=tcnoBL0tvpc
 
 ## Additional Files (please place all additional files in a single zip file)
-
+No additional files
 
 ## Yes, please consider this project for the "Art of Civic Hacking" exhibit coming in Fall 2013.
 Yes
