@@ -52,7 +52,8 @@ use of other senses to experience data.
 
 At the Bicoastal Datafest, we produced the FMS Symphony, a music video about the
 relationships between federal spending, the federal interest rate, the debt ceiling
-and the financial crisis over the past few years.
+and the financial crisis over the past few years. A couple months later, we released
+an R library for data sonification called "ddr".
 
 We've continued to explore the potential of non-visual senses, and we think that
 music videos are just the beginning. Music videos convey only two senses. In order
