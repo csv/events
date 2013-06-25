@@ -32,7 +32,7 @@ Governments have recently made great strides towards opening raw datasets online
 but much still needs to be done to make them accessible and comprehensible.
 
 ## Video Link
-???
+http://www.youtube.com/watch?v=3CiDW7NVa8o
 
 ## Photos/Screenshots
 ![Two bowls of guacamole, one saying "2012 NYC Math Test Scores" and the other saying "2006 Math Test Scores"](data-guacamole.jpg)
@@ -41,7 +41,7 @@ but much still needs to be done to make them accessible and comprehensible.
 http://csvsoundsystem.com
 
 ## Source Code
-https://github.com/tlevine/gastronomify
+https://github.com/csv/gastronomify
 
 ## Project/Story Description
 Traditionally, people have produced visualizations in order to make sense of data,
