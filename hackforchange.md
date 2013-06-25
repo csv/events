@@ -82,8 +82,8 @@ appearance and smell of food, allowing us to employ all five senses for conveyin
 We have been lining up performance venues and preparing a full set of music videos.
 We recently produced the Ridership Rachenitsa, a music video about transit ridership
 over the past few years in Chicago and New York. We are currently working on the
-BitCoin <?>, a music video about the BitCoin economy, and the New York <?>, a music
-video about the daily activities of New Yorkers.
+a data-driven music video about the BitCoin economy, a data-driven music video
+about the daily activities of New Yorkers.
 
 We eventually plan on making the processes of data sonification and
 gastronomification more accessible to laypeople, but we feel that we first need to
@@ -117,7 +117,9 @@ them in important issues. In order to make the best use of open data, we need to
 make it comprehensible to everyone.
 
 ## How Does This Project or Story Show the Value of Collaboration Between Communities and/or Corporations, and/or Governments?
-???
+We are a team of data scientists and data journalists. Together, we are able to
+discover important datasets, conduct advanced analyses and frame them in a way that
+the public can understand.
 
 ## Additional Resources
 http://www.dnainfo.com/new-york/20130429/greenpoint/data-driven-band-csv-soundsystem-makes-music-from-spreadsheets
