@@ -14,6 +14,7 @@ Thomas Levine
 wildebeest@thomaslevine.com
 
 ## Short Overview
+Exploration of complex datasets is hard. We feel that data visualization is not powerful enough to for us to understand open data, so we have been exploring the representation of data in other senses. For the National Day of Civic Hacking, we created an R package called "gastronomify" that produces different recipes based on a dataset and then hires a TaskRabbit to prepare the food for you.
 
 ## What National Day of Civic Hacking event did you attend?
 
@@ -36,6 +37,7 @@ http://www.youtube.com/watch?v=3CiDW7NVa8o
 
 ## Photos/Screenshots
 ![Two bowls of guacamole, one saying "2012 NYC Math Test Scores" and the other saying "2006 Math Test Scores"](data-guacamole.jpg)
+https://raw.github.com/csv/events/master/data-guacamole.jpg
 
 ## Website
 http://csvsoundsystem.com
@@ -67,7 +69,7 @@ with TaskRabbit. We used the library to prepare a gastronomification of New York
 City [math test scores](https://data.cityofnewyork.us/Education/Math-Test-Results-2006-2012-District-All-Students/7yig-nj52).
 
 ## How Will This Project Have Impact?
-Gastronomification facilitates an ambient, passive approache data analysis, allowing
+Gastronomification facilitates an ambient, passive approach to data analysis, allowing
 people to experience richer datasets without specialized knowledge.
 
 ## What Happens Next?
