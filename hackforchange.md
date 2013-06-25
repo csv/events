@@ -18,11 +18,11 @@ wildebeest@thomaslevine.com
 ## What National Day of Civic Hacking event did you attend?
 
 ## Additional Team Members & Contact Info
-Brian Abelson
-Jake Bialer
-Burton DeWilde
-Michael Keller
-Cezary Podkul
+Brian Abelson <brianabelson@gmail.com>
+Jake Bialer <jake@huffingtonpost.com>
+Burton DeWilde <burtondewilde@gmail.com>
+Michael Keller <michael.keller@gmail.com>
+Cezary Podkul <cezary4@gmail.com>
 
 ## What Challenge Did You Address?
 OTHER - Define Below
